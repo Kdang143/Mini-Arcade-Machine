@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/68084112/127725587-3e567e02-f4f1-46c7-
 
 
 ## **Breakout Leaderboard**
-![image2](https://user-images.githubusercontent.com/68084112/127725719-2fbfc541-b807-440f-853b-6b152327b1b8.jpg)
+<img src="https://user-images.githubusercontent.com/68084112/127725719-2fbfc541-b807-440f-853b-6b152327b1b8.jpg" width="500" height="500">
 
 
 ## **Process of Building Mini Arcade Cabinet**
