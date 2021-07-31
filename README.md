@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/68084112/127725587-3e567e02-f4f1-46c7-
 
 
 **Process of Building Mini Arcade Cabinet**
-![image7](https://user-images.githubusercontent.com/68084112/127725674-ca331f42-232a-42a8-b164-8ff1731764d7.jpg)
+![image7](https://user-images.githubusercontent.com/68084112/127725674-ca331f42-232a-42a8-b164-8ff1731764d7.jpg){:height="50%" width="50%"}
 ![image6](https://user-images.githubusercontent.com/68084112/127725677-3fc82d02-63a4-4b24-98a3-97a17742d6dc.jpg)
 ![image4](https://user-images.githubusercontent.com/68084112/127725678-0e492439-a300-4a83-b74b-dbcb7f038816.jpg)
 ![image5](https://user-images.githubusercontent.com/68084112/127725679-7ddffad5-b463-47e6-8098-927c5b567610.jpg)
