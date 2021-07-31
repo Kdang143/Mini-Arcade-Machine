@@ -15,12 +15,11 @@ https://user-images.githubusercontent.com/68084112/127725587-3e567e02-f4f1-46c7-
 
 
 ## **Breakout Leaderboard**
-<img src="https://user-images.githubusercontent.com/68084112/127725719-2fbfc541-b807-440f-853b-6b152327b1b8.jpg" width="500" height="600">
-
+<img src="https://user-images.githubusercontent.com/68084112/127725719-2fbfc541-b807-440f-853b-6b152327b1b8.jpg" width="400" height="500">
 
 ## **Process of Building Mini Arcade Cabinet**
-<img src="https://user-images.githubusercontent.com/68084112/127725674-ca331f42-232a-42a8-b164-8ff1731764d7.jpg" width="100" height="100">
-![image6](https://user-images.githubusercontent.com/68084112/127725677-3fc82d02-63a4-4b24-98a3-97a17742d6dc.jpg)
-![image4](https://user-images.githubusercontent.com/68084112/127725678-0e492439-a300-4a83-b74b-dbcb7f038816.jpg)
-![image5](https://user-images.githubusercontent.com/68084112/127725679-7ddffad5-b463-47e6-8098-927c5b567610.jpg)
-![image0](https://user-images.githubusercontent.com/68084112/127725682-b3bd0c50-2557-4968-801e-043d362b91bf.jpg)
+<img src="https://user-images.githubusercontent.com/68084112/127725674-ca331f42-232a-42a8-b164-8ff1731764d7.jpg" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/68084112/127725677-3fc82d02-63a4-4b24-98a3-97a17742d6dc.jpg" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/68084112/127725678-0e492439-a300-4a83-b74b-dbcb7f038816.jpg" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/68084112/127725679-7ddffad5-b463-47e6-8098-927c5b567610.jpg" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/68084112/127725682-b3bd0c50-2557-4968-801e-043d362b91bf.jpg" width="400" height="500">
