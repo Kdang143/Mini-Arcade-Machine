@@ -13,6 +13,7 @@ Created a mini arcade cabinet with a few simple electronic parts and 3D printed 
 **Video Demo of Breakout**
 https://user-images.githubusercontent.com/68084112/127725587-3e567e02-f4f1-46c7-93f7-63890da2eb4f.mov
 
+
 **Breakout Leaderboard**
 ![image2](https://user-images.githubusercontent.com/68084112/127725719-2fbfc541-b807-440f-853b-6b152327b1b8.jpg)
 
