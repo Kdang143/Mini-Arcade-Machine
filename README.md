@@ -1,4 +1,4 @@
-# Mini-Arcade-Cabinet
+# Mini-Arcade-Machine
 
 Created a mini arcade cabinet with a few simple electronic parts and 3D printed parts. The game currently installed for the Arcade is called Breakout where you break as many blocks as you can to obtain the highest score. Also after you have lost all 3 lives in Breakout you can enter you initials to place your highscore on the leaderboard. The project idea was influenced by the Arduboy community.
 
